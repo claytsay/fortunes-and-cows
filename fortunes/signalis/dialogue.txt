@@ -1,0 +1,192 @@
+...an Elster unit?
+You should leave this place.
+This facility is lost.
+Turn back before it's too late.
+                -- Star, "Signalis"
+%
+I'm looking for this woman.
+Have you seen her?
+                -- Elster, "Signalis"
+%
+Oh, hello.
+You don't belong here either, do you?
+I'm Isa.
+Isa Itou.
+                -- Isa, "Signalis"
+%
+You don't look like you belong here.
+You're an Elster unit, right?
+This facility is currently on lockdown. You shouldn't be
+here.
+                -- Storch, "Signalis"
+%
+Have you ever wondered if you're speaking to someone
+for the last time without knowing?
+I wish I could go back, so I could say something else.
+                -- Isa, "Signalis"
+%
+You don't need to worry about me.
+I can take care of myself now.
+I can't keep relying on others.
+That's why she left me, after all.
+I'm sure of that now.
+                -- Isa, "Signalis"
+%
+Everyone's turned weird...
+I'm the only one left, I think.
+Will I get sick like the others, too?
+                -- Eule, "Signalis"
+%
+I'm scared.
+I don't want to die.
+                -- Eule, "Signalis"
+%
+You look kind of familiar ... have we met before?
+                -- Eule, "Signalis"
+%
+A visitor.
+Welcome to our facility.
+You've caught us at an unfortunate time.
+How can I help you?
+                -- Adler, "Signalis"
+%
+I'm looking for a Gestalt.
+                -- Elster, "Signalis"
+%
+You shouldn't have returned.
+                -- Adler, "Signalis"
+%
+I'm the administrator of this facility.
+I'm just here to help.
+                -- Adler, "Signalis"
+%
+...
+Who're you?
+You're not one of our staff.
+                -- Kolibri, "Signalis"
+%
+The others... they've changed.
+We no longer sing in unison.
+                -- Kolibri, "Signalis"
+%
+I can't go on like this.
+I wish I had become like the others, too.
+At least then, I wouldn't be alone.
+                -- Kolibri, "Signalis"
+%
+I know you're here.
+I've done this countless times before.
+You don't belong here.
+                -- Adler, "Signalis"
+%
+Ah. Hello.
+You're not a Protektor, are you?
+What brings you here?
+                -- Beo, "Signalis"
+%
+I'm Beo.
+If you're down here, you're probably looking for something...
+I'd help you, but one of my hydraulics failed and I can't move.
+I'm pretty much done for, so you can just leave me here.
+                -- Beo, "Signalis"
+%
+Remember that time we went to the surface?
+The stars were so beautiful...
+I wish we could go there again.
+                -- Star, "Signalis"
+%
+It'll be okay.
+Wherever it is I'm going,
+I'll wait for you there.
+                -- Star, "Signalis"
+%
+Ugh...
+Ah, it's you... Elster... right?
+Thank you for your help.
+Did you find who you were looking for yet?
+                -- Isa, "Signalis"
+%
+It's impossible to move on.
+I have been here so many times, but I have never returned.
+The Commander never spoke about what she saw out there.
+I'm sure whatever it was, it was what made her fall sick.
+Something about her changed when she returned.
+She was no longer our beloved Leader Falke.
+What waits beyond the threshold?
+                -- Adler, "Signalis"
+%
+It doesn't matter.
+                -- Elster, "Signalis"
+%
+Elster!
+You're up!
+I missed you.
+                -- Ariane, "Signalis"
+%
+Ah, it's our 3000 cycle anniversary!
+We'll be getting the updated mission parameters later,
+so I thought it'd be nice to celebrate.
+Wait, let me put on some music!
+                -- Ariane, "Signalis"
+%
+You've changed.
+It's like everything was taken apart
+and put back together
+by someone who doesn't understand how it works.
+                -- Adler, "Signalis"
+%
+I wear no mask.
+                -- Adler, "Signalis"
+%
+I couldn't find her...
+I've looked everywhere
+but she's not here anymore.
+I can't go on.
+I'm sorry...
+                -- Isa, "Signalis"
+%
+Why did you return?
+There's nothing for you here.
+She'll never dance with us again,
+no matter what we do.
+She doesn't even want us anymore.
+                -- Falke, "Signalis"
+%
+Both of us, we are incomplete.
+Let us become whole again.
+                -- Falke, "Signalis"
+%
+Now we are one.
+                -- Falke, "Signalis"
+%
+You've returned.
+Are you really willing to go through with this once more?
+You've seen what happens.
+This world cannot take much more.
+This may be our last chance.
+                -- Adler, "Signalis"
+%
+If you go back,
+it'll all fall apart.
+I can't let that happen.
+                -- Adler, "Signalis"
+%
+I've come back for you.
+It's me, Elster...
+                -- Elster, "Signalis"
+%
+...Elster?
+I'm sorry, but I don't remember.
+                -- Ariane, "Signalis"
+%
+It's okay.
+Please, just let me stay by your side a little longer.
+                -- Elster, "Signalis"
+%
+...I can't do it.
+                -- Elster, "Signalis"
+%
+You have to do it.
+Please.
+                -- Ariane, "Signalis"
+%
